@@ -2,7 +2,10 @@
 *.swp
 *~
 *.obj
+*.log
 .sconsign.dblite
+.sconf_temp/
 /goxel
+/imgui.ini
 .DS_Store
 xcuserdata/
